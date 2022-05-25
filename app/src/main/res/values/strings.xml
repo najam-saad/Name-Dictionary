@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Name Dictionary</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="tabs">
+		<item>English</item>
+		<item>Urdu</item>
+	</string-array>
+</resources>
